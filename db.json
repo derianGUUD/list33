@@ -1,0 +1,20 @@
+{
+    "status": "true",
+    "message": "Data 33",
+    "data": [
+        {
+            "nomorAju": "05092702505920210702",
+            "nomorDaftar": "401723",
+            "tanggalDaftar": "2022-06-27",
+            "nomorRespon": "KPP.MP.01/2022/1",
+            "tanggalRespon": "2022-04-20"
+        },
+        {
+            "nomorAju": "05092702505920210701",
+            "nomorDaftar": "401723",
+            "tanggalDaftar": "2022-06-27",
+            "nomorRespon": "WBC.09/KPP.MP.01/2022/2",
+            "tanggalRespon": "2022-04-20"
+        }
+    ]
+}
